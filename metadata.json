@@ -1,0 +1,6 @@
+{
+  "name": "Outpost Z: Last Stand",
+  "description": "Tactical first-person zombie wave defense survival game set in an abandoned military compound at dusk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
